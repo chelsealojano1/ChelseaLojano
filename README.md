@@ -1,4 +1,4 @@
-<h1>Hi, I'm Chelsea Lojano! <a href="(https://www.linkedin.com/in/chelsea-lojano/)"> </a>
+<h1>Hi, I'm Chelsea Lojano! <a href="https://www.linkedin.com/in/chelsea-lojano/"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
@@ -6,16 +6,16 @@
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
   - [Link Title](Link) <b><i>(Additional Information)</b></i>
 
+<h2>🛡️ Information Security Projects</h2>
+
+ - [Link Title](Link)
+
 <h2>📜 Certifications:</h2>
 
   - [PCCET](Link)
   - [Network+](Link)
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
-
-<h2>🛡️ Information Security Projects</h2>
-
- - [Link Title](Link)
   
 <h2> 🤳 Connect with me:</h2>
 
