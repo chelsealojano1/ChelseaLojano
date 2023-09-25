@@ -1,6 +1,6 @@
 # ChelseaLojano
 portfolio
-<h1>Hi, I'm Chelsea Lojano! <a href="https://www.linkedin.com/in/chelsea-lojano-345663210)/"> </a>
+<h1>Hi, I'm Chelsea Lojano! <a href="(https://www.linkedin.com/in/chelsea-lojano/)"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
 
