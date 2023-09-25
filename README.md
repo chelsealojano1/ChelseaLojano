@@ -1,5 +1,3 @@
-# ChelseaLojano
-portfolio
 <h1>Hi, I'm Chelsea Lojano! <a href="(https://www.linkedin.com/in/chelsea-lojano/)"> </a>
 
 <h2>👨‍💻 Helpdesk Projects:</h2>
@@ -14,7 +12,6 @@ portfolio
   - [Network+](Link)
   - [Splunk Certified Core User](Link)
   - [AZ-900](Link)
-
 
 <h2>🛡️ Information Security Projects</h2>
 
