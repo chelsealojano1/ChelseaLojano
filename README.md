@@ -16,7 +16,6 @@ portfolio
   - [AZ-900](Link)
 
 
-
 <h2>🛡️ Information Security Projects</h2>
 
  - [Link Title](Link)
@@ -31,4 +30,4 @@ portfolio
 [twitter]: https://twitter.com/
 [youtube]: https://www.youtube.com/c/
 [instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/jeramiahpoff
+[linkedin]: https://www.linkedin.com/in/chelsea-lojano/
